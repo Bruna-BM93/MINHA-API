@@ -1,0 +1,4 @@
+.env
+venv
+
+# Ignore node_modules directory
